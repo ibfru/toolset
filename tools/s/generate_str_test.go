@@ -14,7 +14,7 @@
 package ts_test
 
 import (
-	ts "github.com/ibfru/toolset/tools/s"
+	ts "github.com/ibfru/toolset/v2/tools/s"
 	"math/rand"
 	"testing"
 )
